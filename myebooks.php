@@ -48,7 +48,7 @@ die();
         <div id="bookUser"></div>
         <h3 class="toggle closed">Papierkorb  <i class="fa fa-caret-right"></i></h3>
         <div id="bookBin"></div>
-        <h3 class="closed"><a href="/books/11/57/Output/website/book.html#meine-e-books" target="_blank">Hilfe</h3>
+        <h3 class="closed"><a href="/books/11/57/Output/website/book.html#3-meine-e-books" target="_blank">Hilfe</h3>
     </div>
   
   </div>

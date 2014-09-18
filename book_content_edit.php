@@ -83,7 +83,7 @@ $chapter_id = $_GET['id'];
         </div>
         <h3 class="toggle closed">Papierkorb <i class="fa fa-caret-right"></i></h3>
         <div id="widgetBin"></div>
-        <h3 class="closed"><a href="/books/11/57/Output/website/book.html#buch-bearbeiten-inhalt-kapitel-einleitung" target="_blank">Hilfe</a></h3>
+        <h3 class="closed"><a href="/books/11/57/Output/website/book.html#6-buch-bearbeiten-inhalt-kapitel-einleitung" target="_blank">Hilfe</a></h3>
     </div>
 </div>
 </div>

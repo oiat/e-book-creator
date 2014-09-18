@@ -177,7 +177,7 @@ if(!$session->checkBookPermissions($book_id)) {
 				</span>
                 <p><a href="#" id="removeEbooks" style="<?php echo $editions_show;?>" rel="<?php echo $book_id;?>" title="Ebooks löschen"><i class="fa fa-times fa-border fa-fw deleteWidget"></i> Ausgaben löschen</a></p>
         </div>
-        <h3 class="closed"><a href="/books/11/57/Output/website/book.html#buch-bearbeiten-allgemeine-daten" target="_blank">Hilfe</a></h3>
+        <h3 class="closed"><a href="/books/11/57/Output/website/book.html#4-buch-bearbeiten-allgemeine-daten" target="_blank">Hilfe</a></h3>
     </div>
     </div>
     <input id="book_id" name="book_id" type="hidden" value="<?php echo $book_id;?>" />

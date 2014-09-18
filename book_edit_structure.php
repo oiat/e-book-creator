@@ -95,7 +95,7 @@ if(!$session->checkBookPermissions($book_id)) {
         </div>
         <h3 class="toggle closed">Papierkorb <i class="fa fa-caret-right"></i></h3>
         <div id="structureBin"></div>
-        <h3 class="closed"><a href="/books/11/57/Output/website/book.html#buch-bearbeiten-inhalt" target="_blank">Hilfe</a></h3>
+        <h3 class="closed"><a href="/books/11/57/Output/website/book.html#5-buch-bearbeiten-inhalt" target="_blank">Hilfe</a></h3>
     </div>
     <input id="book_id" name="book_id" type="hidden" value="<?php echo $book_id;?>" />
     </div>
