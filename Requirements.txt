@@ -1,0 +1,9 @@
+install giflib
+install libtiff 
+
+http://www.princexml.com/download/
+http://www.princexml.com/download/prince-9.0-4.centos60.x86_64.rpm
+rpm -ivh prince-9.0-4.centos60.x86_64.rpm
+
+amazon KindleGen 
+kindle Previewer 
