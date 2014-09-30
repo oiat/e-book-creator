@@ -34,3 +34,19 @@ MySQL: http://www.mysql.com
 
 Installation
 --------------------------------
+
+- Der Server bzw. die Hostingumgebung muss folgendes unterstützen:  
+1) mit php muss das exec('php') Komando ausführbar sein
+
+2) Zur PDF-Erstellung muss am Server PrinceXML installiert sein
+(siehe http://easybook-project.org/documentation/chapter-8/requirements-2.html)
+
+3) Zur modi-Erstellung muss am Server Amazon KindleGen installiert sein
+(siehe http://easybook-project.org/documentation/chapter-7/requirements.html)
+
+
+- e-book-creator Code downloaden und auf den Server spielen.
+
+- Das Mysql schema unter includes/ebook.sql in der datenbank erstellen
+
+- includes/config.php anpassen
