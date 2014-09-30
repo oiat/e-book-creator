@@ -30,3 +30,7 @@ Font Awesome: http://fortawesome.github.io/Font-Awesome
 
 php: http://php.net  
 MySQL: http://www.mysql.com
+
+
+Installation
+--------------------------------
