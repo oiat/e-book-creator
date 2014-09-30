@@ -35,7 +35,7 @@ MySQL: http://www.mysql.com
 Installation
 --------------------------------
 
-- Der Server bzw. die Hostingumgebung muss folgendes unterstützen:  
+Der Server bzw. die Hostingumgebung muss folgendes unterstützen:  
 1) mit php muss das exec('php') Komando ausführbar sein
 
 2) Zur PDF-Erstellung muss am Server PrinceXML installiert sein
@@ -45,8 +45,8 @@ Installation
 (siehe http://easybook-project.org/documentation/chapter-7/requirements.html)
 
 
-- e-book-creator Code downloaden und auf den Server spielen.
+e-book-creator Code downloaden und auf den Server spielen.
 
-- Das Mysql schema unter includes/ebook.sql in der datenbank erstellen
+Das Mysql schema unter includes/ebook.sql in der datenbank erstellen
 
-- includes/config.php anpassen
+includes/config.php anpassen
